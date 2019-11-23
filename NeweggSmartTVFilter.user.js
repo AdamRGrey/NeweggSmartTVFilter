@@ -6,6 +6,7 @@
 // @require	 https://code.jquery.com/jquery-3.4.1.min.js
 // @description "Smart" TVs are a bad thing. When browsing newegg for TVs, skip anything that admits to being a smart tv.
 // @namespace adamrgrey.com
+// @license	 MIT
 // ==/UserScript==
 
 let oldJQueryContains = jQuery.expr[':'].contains;
